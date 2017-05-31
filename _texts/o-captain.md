@@ -8,7 +8,7 @@ source: Poetry Foundation
 <p class="citation"> by {{ page.author }}</p>
 
 - O Captain! [my Captain](https://www.wikipedia.org/)! our fearful trip is done;[^fn1]
-- The [ship]({{site.baseurl}}/texts/dreams/) has weather’d every rack, the prize we sought is won,
+- The [ship]({{site.baseurl}}/texts/Julia/) has weather’d every rack, the prize we sought is won,
 - The port is near, the bells I hear, the people all exulting,
 - While follow eyes the steady keel, the vessel grim and daring; 
 - {:.indent-3}But O heart! heart! heart!
