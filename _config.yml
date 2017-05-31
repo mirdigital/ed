@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               "RACE, REPRODUCTION, RESISTANCE: African American Women and Birth Control in the Early 20th Century"
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               "RACE, REPRODUCTION, RESISTANCE"
+tagline:             'African American Women and Birth Control in the Early 20th Century'
+description:         
 url:                 'http://elotroalex.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Miriam Neptune (not author of this text)
+  url:               miriamneptune.com
+  email:             neptunemir@gmail.com
 
 # Permalinks
 
